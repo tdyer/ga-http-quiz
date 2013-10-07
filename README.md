@@ -100,8 +100,8 @@
 	* HTTP Request Methods
 		GET and POST most used.
 		* GET. Retrieve a resource.
-		* POST. Update a resource.
-		* PUT. Store a resource.
+		* POST. Create a resource.
+		* PUT. Update a resource.
 		* DELETE, Delete a resource.
 		* HEAD, Retreive the headers for a resource. 
 	* GET HTTP Request Format
