@@ -6,3 +6,5 @@ gem 'pry-debugger'
 gem 'simplecov', require: false
 gem 'guard-rspec'
 gem 'dotenv'
+
+gem 'thin'
