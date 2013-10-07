@@ -84,8 +84,7 @@
 #### Each layer represents a Protocol.
 * These Protocols are defined by Request For Comment (RFC) documents. *No need to dig into these now*.
 * We are going to focus on the HTTP protocol.
-
-<image src='http://odetocode.com/aimages/http/netlayer.png' style='display: inline'> </image>
+![Network Protocol](http://odetocode.com/aimages/http/netlayer.png)
 
 ## HTTP Request/Response
 
